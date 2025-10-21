@@ -2,7 +2,7 @@
 This Repo Contain a web app which accept the NASDAQ name of a company or a CSV file to check the current metrices of shares , past trends and to train a prediction model
 Clone the repository:
 ```bash
-git clone [https://github.com/MuhammadUmer241/Time-Series-Analysis-Web-App](https://github.com/syedmuzammil779/time-series-anaylisis-Deep-Learning)
+git clone https://github.com/syedmuzammil779/time-series-anaylisis-Deep-Learning
 ```
 Create a Virtual Enviroment
 ```bash
